@@ -1,60 +1,8 @@
-![Saleor Commerce - A GraphQL-first platform for perfectionists](https://user-images.githubusercontent.com/249912/71523206-4e45f800-28c8-11ea-84ba-345a9bfc998a.png)
-
-<div align="center">
-  <h1>Saleor Commerce</h1>
-</div>
-
-<div align="center">
-  <strong>Customer-centric e-commerce on a modern stack</strong>
-</div>
-
 <div align="center">
   A headless, GraphQL-first e-commerce platform delivering ultra-fast, dynamic, personalized shopping experiences. Beautiful online stores, anywhere, on any device.
 </div>
 
 <br>
-
-<div align="center">
-  Join our active, engaged community: <br>
-  <a href="https://saleor.io/">Website</a>
-  <span> | </span>
-  <a href="https://medium.com/saleor">Blog</a>
-  <span> | </span>
-  <a href="https://twitter.com/getsaleor">Twitter</a>
-  <span> | </span>
-  <a href="https://gitter.im/mirumee/saleor">Gitter</a>
-  <span> | </span>
-  <a href="https://spectrum.chat/saleor">Spectrum</a>
-</div>
-
-<br>
-
-<div align="center">
-  <a href="https://circleci.com/gh/mirumee/saleor">
-    <img src="https://circleci.com/gh/mirumee/saleor.svg?style=svg" alt="Build status" />
-  </a>
-  <a href="http://codecov.io/github/mirumee/saleor?branch=master">
-    <img src="http://codecov.io/github/mirumee/saleor/coverage.svg?branch=master" alt="Codecov" />
-  </a>
-  <a href="https://docs.saleor.io/">
-    <img src="https://img.shields.io/badge/docs-docs.saleor.io-brightgreen.svg" alt="Documentation" />
-  </a>
-  <a href="https://github.com/python/black">
-    <img src="https://img.shields.io/badge/code%20style-black-000000.svg" alt="Code style: black">
-  </a>
-</div>
-
-## Table of Contents
-
-- [What makes Saleor special?](#what-makes-saleor-special)
-- [Features](#features)
-- [Installation](#installation)
-- [Documentation](#documentation)
-- [Demo](#demo)
-- [Contributing](#contributing)
-- [Translations](#translations)
-- [Your feedback](#your-feedback)
-- [License](#license)
 
 ## What makes Saleor special?
 
@@ -77,9 +25,6 @@ Saleor is a rapidly-growing open source e-commerce platform that has served high
 
 Saleor is free and always will be.
 Help us out… If you love free stuff and great software, give us a star! 🌟
-
-![Saleor Storefront - React-based PWA e-commerce storefront](https://user-images.githubusercontent.com/249912/71527146-5b6be280-28da-11ea-901d-eb76161a6bfb.png)
-![Saleor Dashboard - Modern UI for managing your e-commerce](https://user-images.githubusercontent.com/249912/71523261-8a795880-28c8-11ea-98c0-6281ea37f412.png)
 
 ## Installation
 
@@ -156,7 +101,3 @@ Fill out this short survey and help us grow. It will take just a minute, but mea
 Disclaimer: Everything you see here is open and free to use as long as you comply with the [license](https://github.com/mirumee/saleor/blob/master/LICENSE). There are no hidden charges. We promise to do our best to fix bugs and improve the code.
 
 Some situations do call for extra code; we can cover exotic use cases or build you a custom e-commerce appliance.
-
-#### Crafted with ❤️ by [Mirumee Software](http://mirumee.com)
-
-hello@mirumee.com
